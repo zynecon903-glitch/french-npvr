@@ -1,0 +1,262 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tv generator-info-name="Zyne-Custom + epg.pw">
+  <channel id="tf1.fr">
+    <display-name>TF1</display-name>
+  </channel>
+  <channel id="france2.fr">
+    <display-name>France 2</display-name>
+  </channel>
+  <channel id="france3.fr">
+    <display-name>France 3</display-name>
+  </channel>
+  <channel id="france4.fr">
+    <display-name>France 4</display-name>
+  </channel>
+  <channel id="france5.fr">
+    <display-name>France 5</display-name>
+  </channel>
+  <channel id="m6.fr">
+    <display-name>M6</display-name>
+  </channel>
+  <channel id="6ter.fr">
+    <display-name>6ter</display-name>
+  </channel>
+  <channel id="w9.fr">
+    <display-name>W9</display-name>
+  </channel>
+  <channel id="gulli.fr">
+    <display-name>Gulli</display-name>
+  </channel>
+  <channel id="tfou.fr">
+    <display-name>TFOU</display-name>
+  </channel>
+  <channel id="cuisine.fr">
+    <display-name>Cuisine TV</display-name>
+  </channel>
+  <channel id="mycuisine.fr">
+    <display-name>MyCuisine</display-name>
+  </channel>
+  <channel id="chivetv.us">
+    <display-name>Chive TV</display-name>
+  </channel>
+  <programme channel="6ter.fr" start="20260823043000 +0000" stop="20260823050000 +0000">
+    <title lang="zh">Les aventures de Tintin</title>
+    <desc>La vie paisible du château de Moulinsart est soudain bouleversée par l'arrivée du turbulent prince Abdallah. Son père, l'émir Ben Kalish Ezab, a été renversé par un coup d'État dirigé par un certain Mull Pacha. Consternés, Tintin et le capitaine Haddock décident de se rendre au Khemed pour lui porter secours. Ils retrouvent l'émir caché dans les montagnes….</desc>
+    <date>2026-08-23</date>
+  </programme>
+  <programme channel="6ter.fr" start="20260823050000 +0000" stop="20260823053000 +0000">
+    <title lang="zh">Les aventures de Tintin</title>
+    <desc>Le complot qui a renversé l'émir Ben Kalish Ezab a des ramifications jusqu'en Europe. L'homme qui tire les ficèles est Di Gorgonzola, le propriétaire de la compagnie aérienne Arabair. Le milliardaire se livre à un odieux trafic d'esclaves sous le nom de code « coke ». Tintin et Haddock découvrent que Di Gorgonzola est en fait leur ennemi Rastapopoulos….</desc>
+    <date>2026-08-23</date>
+  </programme>
+  <programme channel="6ter.fr" start="20260823053000 +0000" stop="20260823055000 +0000">
+    <title lang="zh">Les aventures de Tintin</title>
+    <desc>Tintin, Haddock et Milou sont en vacances à la montagne. Au cours de leur séjour, ils apprennent qu'un avion à bord duquel se trouvait Tchang s'est écrasé dans l'Himalaya. Persuadé que Tchang est toujours en vie, Tintin décide de partir pour le Népal afin de retrouver son ami disparu. Haddock et Milou l'accompagnent. L'expédition commence !</desc>
+    <date>2026-08-23</date>
+  </programme>
+  <programme channel="6ter.fr" start="20260823055000 +0000" stop="20260823062000 +0000">
+    <title lang="zh">Les aventures de Tintin</title>
+    <desc>Au Népal, Tintin et Haddock sont à la recherche du jeune Tchang. Accompagnés du sherpa Tharkey, ils retrouvent la trace de leur ami, qui a gravé son nom sur un rocher. Victimes d'une avalanche, ils sont secourus par des lamas et trouvent refuge dans un monastère. Un des moines a une vision : Tchang se trouverait dans une grotte avec l'effrayant yéti….</desc>
+    <date>2026-08-23</date>
+  </programme>
+  <programme channel="6ter.fr" start="20260823062000 +0000" stop="20260823063000 +0000">
+    <title lang="zh">Idéfix et les Irréductibles</title>
+    <desc>Pour faire libérer des Lutéciens enfermés à tort, Idéfix et ses amis doivent retrouver un bijou romain volé et caché par Lentix le brigand... Mais ils ne sont pas les seuls sur le coup ! Arquebus le cherche aussi. Pendant ce temps à la Louve, l'interrogatoire de Lentix prend une tournure surprenante quand Pleindastus s'en mêle.</desc>
+    <date>2026-08-23</date>
+  </programme>
+  <programme channel="6ter.fr" start="20260823063000 +0000" stop="20260823065000 +0000">
+    <title lang="zh">Idéfix et les Irréductibles</title>
+    <desc>La légion canine a trouvé le repaire des Irréductibles ! Durant le bourre-pif qui les oppose, Romains et Gaulois sont touchés par une potion de Voldenuix qui les téléporte sans cesse aléatoirement. Incapables de savoir où ils vont réapparaître, Idéfix et ses amis doivent malgré tout résister aux assauts d’Arquebus et des Beagles. Comment, dans ces conditions, sauver le repaire ?</desc>
+    <date>2026-08-23</date>
+  </programme>
+  <programme channel="6ter.fr" start="20260823065000 +0000" stop="20260823070000 +0000">
+    <title lang="zh">Un trésor dans votre maison</title>
+    <desc>Et si un trésor se cachait dans votre grenier ? Dans chaque épisode, un particulier nous ouvre ses portes, convaincu de posséder une pépite : timbres rares, bijoux de famille, vase ancien ou vieil instrument oublié. Il nous confie l'estimation qu'il en fait et ce qu'il rêve d'accomplir avec cette somme. Rendez-vous ensuite chez un commissaire-priseur, dont le verdict expert réserve parfois de crue</desc>
+    <date>2026-08-23</date>
+  </programme>
+  <programme channel="6ter.fr" start="20260823070000 +0000" stop="20260823090000 +0000">
+    <title lang="zh">W9 boutique</title>
+    <desc>Emission de télé-achat présentée par Pierre Dhostel et Valérie Pascal.</desc>
+    <date>2026-08-23</date>
+  </programme>
+  <programme channel="6ter.fr" start="20260823090000 +0000" stop="20260823095000 +0000">
+    <title lang="zh">112 Hélico d'urgence</title>
+    <desc>L'équipe vient en aide à un jeune homme qui s'est fait tabasser par des amis. Une personne en arrêt cardiaque nécessite toute l'attention de l'équipe médicale, tandis que l'hélico intervient également pour un motard qui a été touché de plein fouet par une voiture.</desc>
+    <date>2026-08-23</date>
+  </programme>
+  <programme channel="6ter.fr" start="20260823095000 +0000" stop="20260823105000 +0000">
+    <title lang="zh">112 Hélico d'urgence</title>
+    <desc>L'équipe de garde porte secours à une motarde, victime d'une vilaine chute, tandis qu'une parachutiste a besoin de l'assistance de l'hélicoptère. Une mission particulièrement touchante attend Bernard, le médecin de garde, alors qu'une dame en arrêt cardiaque est prise en charge.</desc>
+    <date>2026-08-23</date>
+  </programme>
+  <programme channel="6ter.fr" start="20260823105000 +0000" stop="20260823115000 +0000">
+    <title lang="zh">112 Hélico d'urgence</title>
+    <desc>Didier et Oliver doivent se dépasser pour venir en aide à une patiente dont le cœur est à quinze pulsations par minute. L'hélico porte ensuite secours à un jeune homme qui a eu un accident de quad.</desc>
+    <date>2026-08-23</date>
+  </programme>
+  <programme channel="6ter.fr" start="20260823115000 +0000" stop="20260823124000 +0000">
+    <title lang="zh">112 Hélico d'urgence</title>
+    <desc>Un accident de la route nécessite l'intervention de l'équipe de garde. Une mission difficile attend les membres du Centre Médical Héliporté. Un jeune garçon a besoin d’aide après une chute à vélo, de même qu’un conducteur de quad après un choc avec une porte de garage. Et enfin, un accident de moto impliquant un sanglier retient toute l'attention de l'équipe médicale.</desc>
+    <date>2026-08-23</date>
+  </programme>
+  <programme channel="6ter.fr" start="20260823124000 +0000" stop="20260823133000 +0000">
+    <title lang="zh">112 Hélico d'urgence</title>
+    <desc>L’alarme retentit… la garde commence. Un accident de la route impliquant trois voitures et un camion, une tentative de suicide et un enfant brûlé. Un quotidien dangereux et mouvementé pour l’équipe du Centre Médical Héliporté.</desc>
+    <date>2026-08-23</date>
+  </programme>
+  <programme channel="6ter.fr" start="20260823133000 +0000" stop="20260823141000 +0000">
+    <title lang="zh">112 Hélico d'urgence</title>
+    <desc>L’équipe médicale va tenter de réanimer un jeune homme gravement blessé dans un accident de voiture. Une dame soupçonnée de faire un infarctus a besoin d’assistance. Un patient tente de se suicider en s’ouvrant les veines.</desc>
+    <date>2026-08-23</date>
+  </programme>
+  <programme channel="6ter.fr" start="20260823141000 +0000" stop="20260823151000 +0000">
+    <title lang="zh">112 Hélico d'urgence</title>
+    <desc>Sauvetage d’une grand-mère et son petit-fils impliqués dans un grave accident de voiture. Opération délicate : il faut la désincarcérer de la voiture. Ensuite, urgence vitale pour une patiente en détresse respiratoire.</desc>
+    <date>2026-08-23</date>
+  </programme>
+  <programme channel="6ter.fr" start="20260823151000 +0000" stop="20260823190000 +0000">
+    <title lang="zh">Kaamelott</title>
+    <desc>Ve siècle, île de Bretagne. Le royaume de Kaamelott s'organise autour de son souverain, le roi Arthur. Entouré de ses fidèles chevaliers de la Table Ronde, il s'attelle à la mission que les dieux lui ont confiée : rechercher le Saint Graal !</desc>
+    <date>2026-08-23</date>
+  </programme>
+  <programme channel="6ter.fr" start="20260823190000 +0000" stop="20260823205000 +0000">
+    <title lang="zh">Ralph 2.0</title>
+    <desc />
+    <date>2026-08-23</date>
+  </programme>
+  <programme channel="6ter.fr" start="20260823205000 +0000" stop="20260823233000 +0000">
+    <title lang="zh">Kaamelott</title>
+    <desc>Ve siècle, île de Bretagne. Le royaume de Kaamelott s'organise autour de son souverain, le roi Arthur. Entouré de ses fidèles chevaliers de la Table Ronde, il s'attelle à la mission que les dieux lui ont confiée : rechercher le Saint Graal !</desc>
+    <date>2026-08-23</date>
+  </programme>
+  <programme channel="6ter.fr" start="20260823233000 +0000" stop="20260824000000 +0000">
+    <title lang="zh">Programmes de nuit</title>
+    <desc />
+    <date>2026-08-23</date>
+  </programme>
+  <programme channel="6ter.fr" start="20260824042000 +0000" stop="20260824051000 +0000">
+    <title lang="zh">Une vie rêvée</title>
+    <desc>Sanem Aydın rêve de devenir écrivaine mais travaille dans l'épicerie familiale. Pour échapper à un mariage arrangé, elle accepte un poste dans une agence de publicité, où elle rencontre Can Divit, photographe baroudeur et nouveau patron. Entre eux, l'alchimie est immédiate mais les obstacles nombreux...</desc>
+    <date>2026-08-24</date>
+  </programme>
+  <programme channel="6ter.fr" start="20260824051000 +0000" stop="20260824060000 +0000">
+    <title lang="zh">Une vie rêvée</title>
+    <desc>Sanem Aydın rêve de devenir écrivaine mais travaille dans l'épicerie familiale. Pour échapper à un mariage arrangé, elle accepte un poste dans une agence de publicité, où elle rencontre Can Divit, photographe baroudeur et nouveau patron. Entre eux, l'alchimie est immédiate mais les obstacles nombreux...</desc>
+    <date>2026-08-24</date>
+  </programme>
+  <programme channel="6ter.fr" start="20260824060000 +0000" stop="20260824061000 +0000">
+    <title lang="zh">Un trésor dans votre maison</title>
+    <desc>Et si un trésor se cachait dans votre grenier ? Dans chaque épisode, un particulier nous ouvre ses portes, convaincu de posséder une pépite : timbres rares, bijoux de famille, vase ancien ou vieil instrument oublié. Il nous confie l'estimation qu'il en fait et ce qu'il rêve d'accomplir avec cette somme. Rendez-vous ensuite chez un commissaire-priseur, dont le verdict expert réserve parfois de crue</desc>
+    <date>2026-08-24</date>
+  </programme>
+  <programme channel="6ter.fr" start="20260824061000 +0000" stop="20260824064000 +0000">
+    <title lang="zh">Une saison au zoo</title>
+    <desc>En l’absence de Romain et Charlotte, Pich tente de réveiller la pampa encore endormie tandis que Dylan prend en charge les atèles à la fauconnerie. Pich gère aussi la sortie des hippos nains et du bongo. En pleine canicule, Claude et Sabrina arrosent les rhinos Bis et Bali. Théo, ancien stagiaire devenu soigneur, assure la rentrée de Nosy Komba.</desc>
+    <date>2026-08-24</date>
+  </programme>
+  <programme channel="6ter.fr" start="20260824064000 +0000" stop="20260824071000 +0000">
+    <title lang="zh">Une saison au zoo</title>
+    <desc>Au secteur primates, Marie sépare les femelles tamarins-lions pour que Cyril et Margaux puissent changer leurs implants contraceptifs. Mathilde poursuit sa formation au secteur éléphants avec Claude, où elle découvre le training médical et assiste à la sortie. Pour lutter contre la chaleur, Aurélie tente de doucher les loups à crinière et de leur proposer des glaçons, mais les canidés restent méfi</desc>
+    <date>2026-08-24</date>
+  </programme>
+  <programme channel="6ter.fr" start="20260824071000 +0000" stop="20260824074000 +0000">
+    <title lang="zh">Une saison au zoo</title>
+    <desc>Paul est rassuré par l’état de Malaï la girafe, qui va mieux. Après quelques jours d’adaptation pour les félins, les servals peuvent enfin être mis en contact. Comme tous les matins, la fauconnerie fait un entrainement aux perroquets. Sur la plaine asiatique, le training médical se poursuit avec Bali qui souffre d’une dépigmentation dans le dos et doit subir une biopsie. À la pampa, Pich douche le</desc>
+    <date>2026-08-24</date>
+  </programme>
+  <programme channel="6ter.fr" start="20260824074000 +0000" stop="20260824081000 +0000">
+    <title lang="zh">Une saison au zoo</title>
+    <desc>Cyril et Margaux se rendent au complexe aquatique pour voir Cooky qui s’est fait mordre par Tanguy et vérifier la cornée de Jimmy. Ils passent ensuite au secteur primates où Cyril donne son accord pour mettre en contact Mbacké la colobe avec les mâles. Théo forme Mathilde au nettoyage de Nosy Komba. Les mandrills découvrent une piscine installée par les soigneuses. Aurélie assiste Claude sur le tr</desc>
+    <date>2026-08-24</date>
+  </programme>
+  <programme channel="6ter.fr" start="20260824081000 +0000" stop="20260824084000 +0000">
+    <title lang="zh">Une saison au zoo</title>
+    <desc>Clémence découvre la rigueur des préparations au secteur nourriture. Margaux examine les lions blancs car ils se disputent quand vient l’heure du nourrissage et se font de petites blessures. Dylan présente une femelle roulroul en quarantaine à Claude avant son installation en volière. Margaux rassure Barbara : les oiseaux sont immunisés contre le virus Usutu, puis fait un soin aux pattes à Schumi </desc>
+    <date>2026-08-24</date>
+  </programme>
+  <programme channel="6ter.fr" start="20260824084000 +0000" stop="20260824092000 +0000">
+    <title lang="zh">Une saison au zoo</title>
+    <desc>Babeth l’hippopotame présente un énorme abcès sur le front ; Cyril espère éviter une nouvelle anesthésie. Au secteur primates, Mbacké la colobe rencontre les mâles Otto et Niokolo, qui sont surtout focalisés sur la nourriture. Mathilde accompagne Claude pour une tournée d’enrichissement chez les siamangs, pandas roux, chats pêcheurs et rhinos. Margaux suit de près les difficultés alimentaires de M</desc>
+    <date>2026-08-24</date>
+  </programme>
+  <programme channel="6ter.fr" start="20260824092000 +0000" stop="20260824095000 +0000">
+    <title lang="zh">Une saison au zoo</title>
+    <desc>Les jeunes capybaras quittent sereinement le secteur herbivores sous le regard ému de Paul. Esenga le bongo, arrivé la saison précédente, découvre enfin l’enclos extérieur mais reste prudent. Seiva la tamarin-lion dont le bras est fracturé a de nouveau enlevé son attelle. Clémence rencontre Mbacké la colobe, qui se montre un peu brusque. Théo réussit seul la rentrée des hippos nains sous le regard</desc>
+    <date>2026-08-24</date>
+  </programme>
+  <programme channel="6ter.fr" start="20260824095000 +0000" stop="20260824103000 +0000">
+    <title lang="zh">Une saison au zoo</title>
+    <desc>Théo tente à nouveau de sortir Esenga le bongo, qui préfère rester au corral. Cyril contrôle la plaie de Cooky l’otarie, et repère un voile sur l’œil de Tanguy. Marie confie à Clémence le nettoyage du bâtiment des saïmiris, puis lui présente le groupe en détaillant chaque individu. Lou amène à la clinique Finn, un oiseau blessé aux pattes. Théo improvise un enrichissement pour les coatis avec de l</desc>
+    <date>2026-08-24</date>
+  </programme>
+  <programme channel="6ter.fr" start="20260824103000 +0000" stop="20260824113000 +0000">
+    <title lang="zh">Docteur Quinn, femme médecin</title>
+    <desc>Colleen, reporter en herbe pour le journal de l'école, demande à Michaela de lui raconter son intervention la plus mémorable. La jeune femme se replonge alors dans son passé et voit défiler les cinq années vécues à Colorado Springs, analysant ses échecs et ses succès.</desc>
+    <date>2026-08-24</date>
+  </programme>
+  <programme channel="6ter.fr" start="20260824113000 +0000" stop="20260824123000 +0000">
+    <title lang="zh">Docteur Quinn, femme médecin</title>
+    <desc>Sully et Michaela font face à de sérieuses difficultés financières et la question se pose de savoir comment payer le prochain loyer. Daniel Simon, le meilleur ami de Sully, arrive à Colorado Springs pour passer quelques jours de repos.</desc>
+    <date>2026-08-24</date>
+  </programme>
+  <programme channel="6ter.fr" start="20260824123000 +0000" stop="20260824132000 +0000">
+    <title lang="zh">Docteur Quinn, femme médecin</title>
+    <desc>Sully s'est absenté quelques jours pour un travail, laissant Daniel seul avec le Docteur Quinn. Un huissier de justice se présente alors au domicile de Mike pour réclamer le loyer. Daniel, sans hésiter, le paye. Sully, de retour, s'aperçoit que Daniel est tombé amoureux de Michaela.</desc>
+    <date>2026-08-24</date>
+  </programme>
+  <programme channel="6ter.fr" start="20260824132000 +0000" stop="20260824142000 +0000">
+    <title lang="zh">Docteur Quinn, femme médecin</title>
+    <desc>Le docteur Quinn est retenue en otage à son domicile par deux cambrioleurs, Brent et Houston, qui ont dévalisé les banques de la région. Sully, qui s'apprête à rentrer dans la demeure, est blessé par la balle de l'un des deux criminels. Malgré sa blessure, Sully va tenter de sauver le Dr Quinn.</desc>
+    <date>2026-08-24</date>
+  </programme>
+  <programme channel="6ter.fr" start="20260824142000 +0000" stop="20260824151000 +0000">
+    <title lang="zh">Desperate Housewives</title>
+    <desc>Karen McCluskey, dont l'état de santé se dégrade, bénéficie du soutien de ses voisines pour passer ses derniers instants chez elle plutôt que dans un établissement médicalisé. Alors que le procès ne s'engage pas bien pour Bree, Trip la supplie de lui raconter ce qu'il s'est vraiment passé la nuit du meurtre. Gabrielle envisage de se dénoncer tandis que Susan n'a pas encore avoué à ses amies son dé</desc>
+    <date>2026-08-24</date>
+  </programme>
+  <programme channel="6ter.fr" start="20260824151000 +0000" stop="20260824160000 +0000">
+    <title lang="zh">Desperate Housewives</title>
+    <desc>Les vies des résidents de Wisteria Lane vont prendre un nouveau tournant alors que Karen McCluskey s'est accusée du meurtre d'Alejandro et que le mariage de Renée approche, la rendant particulièrement irascible. Susan, qui n'a toujours pas annoncé son départ à ses amies, soutient sa fille Julie dont l'accouchement se déclenche au plus mauvais moment. Gabrielle se voit proposer une promotion telle </desc>
+    <date>2026-08-24</date>
+  </programme>
+  <programme channel="6ter.fr" start="20260824160000 +0000" stop="20260824170000 +0000">
+    <title lang="zh">9-1-1</title>
+    <desc>Abby Clark répond aux appels du 9-1-1 et tente de gérer au mieux les situations d'urgences tout en s'occupant de sa mère malade. Le capitaine des pompiers, Bobby Nash, et son équipe interviennent sur des situations très délicates. Ils peuvent compter sur l'aide du sergent Athena Grant qui malgré ses problèmes familiaux sait toujours garder son sang-froid….</desc>
+    <date>2026-08-24</date>
+  </programme>
+  <programme channel="6ter.fr" start="20260824170000 +0000" stop="20260824175000 +0000">
+    <title lang="zh">9-1-1</title>
+    <desc>Les secours sont appelés en urgence dans un parc d'attraction après un grave accident de montagnes russes. Abby demande de l'aide pour s'occuper de sa mère et se lie d'amitié avec Buck qui traverse un moment difficile. Athena est toujours bouleversée par l'annonce de son mari.</desc>
+    <date>2026-08-24</date>
+  </programme>
+  <programme channel="6ter.fr" start="20260824175000 +0000" stop="20260824185000 +0000">
+    <title lang="zh">9-1-1</title>
+    <desc>Bobby et son équipe se rendent sur les lieux d'une fête d'anniversaire qui a tourné au cauchemar. Athena et son mari font face à une situation familiale tragique. Abby doit prendre une décision importante concernant sa mère. Les pompiers font tout pour sauver la vie d'un des leurs, victime d'un accident de voiture….</desc>
+    <date>2026-08-24</date>
+  </programme>
+  <programme channel="6ter.fr" start="20260824185000 +0000" stop="20260824191000 +0000">
+    <title lang="zh">Un trésor dans votre maison</title>
+    <desc>Et si un trésor se cachait dans votre grenier ? Dans chaque épisode, un particulier nous ouvre ses portes, convaincu de posséder une pépite : timbres rares, bijoux de famille, vase ancien ou vieil instrument oublié. Il nous confie l'estimation qu'il en fait et ce qu'il rêve d'accomplir avec cette somme. Rendez-vous ensuite chez un commissaire-priseur, dont le verdict expert réserve parfois de crue</desc>
+    <date>2026-08-24</date>
+  </programme>
+  <programme channel="6ter.fr" start="20260824191000 +0000" stop="20260824204500 +0000">
+    <title lang="zh">Kaamelott</title>
+    <desc>Ve siècle, île de Bretagne. Le royaume de Kaamelott s'organise autour de son souverain, le roi Arthur. Entouré de ses fidèles chevaliers de la Table Ronde, il s'attelle à la mission que les dieux lui ont confiée : rechercher le Saint Graal !</desc>
+    <date>2026-08-24</date>
+  </programme>
+  <programme channel="6ter.fr" start="20260824204500 +0000" stop="20260824223000 +0000">
+    <title lang="zh">Kaamelott</title>
+    <desc>Ve siècle, île de Bretagne. Le royaume de Kaamelott s'organise autour de son souverain, le roi Arthur. Entouré de ses fidèles chevaliers de la Table Ronde, il s'attelle à la mission que les dieux lui ont confiée : rechercher le Saint Graal !</desc>
+    <date>2026-08-24</date>
+  </programme>
+  <programme channel="6ter.fr" start="20260824223000 +0000" stop="20260824235000 +0000">
+    <title lang="zh">Kaamelott</title>
+    <desc />
+    <date>2026-08-24</date>
+  </programme>
+  <programme channel="6ter.fr" start="20260824235000 +0000" stop="20260825000000 +0000">
+    <title lang="zh">Programmes de nuit</title>
+    <desc />
+    <date>2026-08-24</date>
+  </programme>
+</tv>
