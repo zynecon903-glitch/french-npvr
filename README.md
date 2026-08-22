@@ -1,2 +1,2 @@
 # french-npvr
-i just need to register a cdn
+french tv m3u for npvr
