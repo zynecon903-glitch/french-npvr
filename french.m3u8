@@ -1,16 +1,16 @@
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/fr.xml"
 
 #EXTINF:-1 tvg-id="france2.fr" tvg-name="France 2" group-title="France",France 2
-https://iptv-org.github.io/iptv/channels/france2.fr.m3u8
+http://livetv.ktv.zone/104/play.m3u8
 
 #EXTINF:-1 tvg-id="france3.fr" tvg-name="France 3" group-title="France",France 3
-https://iptv-org.github.io/iptv/channels/france3.fr.m3u8
+http://89.187.185.76:8080/France3/index.m3u8
 
 #EXTINF:-1 tvg-id="france4.fr" tvg-name="France 4" group-title="France",France 4
-https://iptv-org.github.io/iptv/channels/france4.fr.m3u8
+http://176.65.146.100:8047/play/a074/index.m3u8
 
 #EXTINF:-1 tvg-id="france5.fr" tvg-name="France 5" group-title="France",France 5
-https://iptv-org.github.io/iptv/channels/france5.fr.m3u8
+http://145.239.5.177/305/index.m3u8
 
 #EXTINF:-1 tvg-id="franceinfo.fr" tvg-name="France Info" group-title="France",France Info
-https://iptv-org.github.io/iptv/channels/franceinfo.fr.m3u8
+https://www.youtube.com/c/franceinfo/live
